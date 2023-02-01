@@ -14,3 +14,4 @@
 9. git checkout -f ----------> restore the all file from last commit
 10. git log ----> all commit details
 11. git log -p -(num) ---> filter commit details
+12. git diff ----> diff of update
