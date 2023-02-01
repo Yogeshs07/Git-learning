@@ -26,4 +26,5 @@
 
 1. git branch <brachname> ------>new branch
 2. git checkout <brachname> ----->shift to the brach
+3. git merge feature1 ---------->merge the brach(do it from master)
 
