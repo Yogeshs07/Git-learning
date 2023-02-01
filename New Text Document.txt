@@ -9,3 +9,4 @@
 	press esc : w q
 5. touch contact.html ---->create new file
 6. git add -A 	------->add all files
+7. git commit -m "msg" ------>commit withour vim editor
