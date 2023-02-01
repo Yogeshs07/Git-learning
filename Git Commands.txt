@@ -1,0 +1,46 @@
+***************************GIT**************************
+1. git init
+2. git status
+3.git add index.html
+4. git commit
+----> VIM editor will open
+	press i
+	then qrite initial commit
+	press esc : w q
+5. touch contact.html ---->create new file
+6. git add -A 	------->add all files
+7. git commit -m "msg" ------>commit withour vim editor
+8. git checkout contact.html ------> restore the file from last commit
+9. git checkout -f ----------> restore the all file from last commit
+10. git log ----> all commit details
+11. git log -p -(num) ---> filter commit details
+12. git diff ----> diff of update
+13. git diff --stage
+14. git commit -a -m "added new" --->add and commit in single cmd
+15. git rm --cached waste.html ------> removed from staging area
+16. git rm -f waste.html	----->remove permanetly
+17. git status -s ---->short status
+18. touch .gitignore ----> ignorable file which we dont want to track.
+
+------------brach-----------
+
+1. git branch <brachname> ------>new branch
+2. git checkout <brachname> ----->shift to the brach
+3. git merge feature1 ---------->merge the brach(do it from master)
+4. git branch	------>total branches
+
+----------Github----------------
+1.  git remote add origin <url> ----> from github repository
+
+----------add branch------
+1. git checkout <existing branchname> 
+2. git push -u origin <existing branchname> ------>branch added
+
+
+**************************Selenium************************
+
+UserName: mngr475498
+Password: dedArut
+
+
+//input[@value='f']
