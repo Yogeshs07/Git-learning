@@ -10,3 +10,7 @@
 5. touch contact.html ---->create new file
 6. git add -A 	------->add all files
 7. git commit -m "msg" ------>commit withour vim editor
+8. git checkout contact.html ------> restore the file from last commit
+9. git checkout -f ----------> restore the all file from last commit
+10. git log ----> all commit details
+11. git log -p -(num) ---> filter commit details
