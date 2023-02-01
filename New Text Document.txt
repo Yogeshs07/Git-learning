@@ -18,3 +18,5 @@
 13. git diff --stage
 14. git commit -a -m "added new" --->add and commit in single cmd
 15. git rm --cached waste.html ------> removed from staging area
+16. git rm -f waste.html	----->remove permanetly
+17. git status -s ---->short status
