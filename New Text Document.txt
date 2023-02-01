@@ -28,3 +28,6 @@
 2. git checkout <brachname> ----->shift to the brach
 3. git merge feature1 ---------->merge the brach(do it from master)
 4. git branch	------>total branches
+
+----------Github----------------
+1.  git remote add origin <url> ----> from github repository
