@@ -1,0 +1,11 @@
+***************************GIT**************************
+1. git init
+2. git status
+3.git add index.html
+4. git commit
+----> VIM editor will open
+	press i
+	then qrite initial commit
+	press esc : w q
+5. touch contact.html ---->create new file
+6. git add -A 	------->add all files
