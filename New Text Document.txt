@@ -15,3 +15,6 @@
 10. git log ----> all commit details
 11. git log -p -(num) ---> filter commit details
 12. git diff ----> diff of update
+13. git diff --stage
+14. git commit -a -m "added new" --->add and commit in single cmd
+15. git rm --cached waste.html ------> removed from staging area
